@@ -1,4 +1,5 @@
 target/*
+reports/
 logs/
 .idea/
 .idea_modules/
