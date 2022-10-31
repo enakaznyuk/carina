@@ -1,0 +1,142 @@
+[2022-10-31 09:43:10] [1] [INFO] [TestNG] Running:
+  C:\Users\egorrrr\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+[2022-10-31 09:43:12] [1] [INFO] Request method:	POST
+Request URI:	https://api.github.com/repos/enakaznyuk/army/branches/10-tests/rename
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Authorization=token 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
+				Content-Type=application/json; charset=UTF-8
+Body:
+{
+    "name": "10-tests",
+    "commit": {
+        "sha": "1fcb9ccc6ef5bc2ecce9a3244e054232fa972133",
+        "node_id": "C_kwDOII73bdoAKDFmY2I5Y2NjNmVmNWJjMmVjY2U5YTMyNDRlMDU0MjMyZmE5NzIxMzM",
+        "commit": {
+            "author": {
+                "name": "enakaznyuk",
+                "email": "egornakaznyuk@gmail.com",
+                "date": "2022-10-30T08:37:23Z"
+            },
+            "committer": {
+                "name": "enakaznyuk",
+                "email": "egornakaznyuk@gmail.com",
+                "date": "2022-10-30T08:37:23Z"
+            },
+            "message": "fix gitignore",
+            "tree": {
+                "sha": "c790ceea9912a54d6829bf4377e32822adcdf44b",
+                "url": "https://api.github.com/repos/enakaznyuk/army/git/trees/c790ceea9912a54d6829bf4377e32822adcdf44b"
+            },
+            "url": "https://api.github.com/repos/enakaznyuk/army/git/commits/1fcb9ccc6ef5bc2ecce9a3244e054232fa972133",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/enakaznyuk/army/commits/1fcb9ccc6ef5bc2ecce9a3244e054232fa972133",
+        "html_url": "https://github.com/enakaznyuk/army/commit/1fcb9ccc6ef5bc2ecce9a3244e054232fa972133",
+        "comments_url": "https://api.github.com/repos/enakaznyuk/army/commits/1fcb9ccc6ef5bc2ecce9a3244e054232fa972133/comments",
+        "author": {
+            "login": "enakaznyuk",
+            "id": 111435804,
+            "node_id": "U_kgDOBqRgHA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/111435804?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/enakaznyuk",
+            "html_url": "https://github.com/enakaznyuk",
+            "followers_url": "https://api.github.com/users/enakaznyuk/followers",
+            "following_url": "https://api.github.com/users/enakaznyuk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/enakaznyuk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/enakaznyuk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/enakaznyuk/subscriptions",
+            "organizations_url": "https://api.github.com/users/enakaznyuk/orgs",
+            "repos_url": "https://api.github.com/users/enakaznyuk/repos",
+            "events_url": "https://api.github.com/users/enakaznyuk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/enakaznyuk/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "enakaznyuk",
+            "id": 111435804,
+            "node_id": "U_kgDOBqRgHA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/111435804?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/enakaznyuk",
+            "html_url": "https://github.com/enakaznyuk",
+            "followers_url": "https://api.github.com/users/enakaznyuk/followers",
+            "following_url": "https://api.github.com/users/enakaznyuk/following{/other_user}",
+            "gists_url": "https://api.github.com/users/enakaznyuk/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/enakaznyuk/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/enakaznyuk/subscriptions",
+            "organizations_url": "https://api.github.com/users/enakaznyuk/orgs",
+            "repos_url": "https://api.github.com/users/enakaznyuk/repos",
+            "events_url": "https://api.github.com/users/enakaznyuk/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/enakaznyuk/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f6236564e4501fc685c3973bd097d580be5170e8",
+                "url": "https://api.github.com/repos/enakaznyuk/army/commits/f6236564e4501fc685c3973bd097d580be5170e8",
+                "html_url": "https://github.com/enakaznyuk/army/commit/f6236564e4501fc685c3973bd097d580be5170e8"
+            }
+        ]
+    },
+    "_links": {
+        "self": "https://api.github.com/repos/enakaznyuk/army/branches/10-tests",
+        "html": "https://github.com/enakaznyuk/army/tree/10-tests"
+    },
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "enforcement_level": "off",
+            "contexts": [
+                
+            ],
+            "checks": [
+                
+            ]
+        }
+    },
+    "protection_url": "https://api.github.com/repos/enakaznyuk/army/branches/10-tests/protection"
+}
+HTTP/1.1 401 Unauthorized
+Server: GitHub.com
+Date: Mon, 31 Oct 2022 09:43:14 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 80
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 53
+X-RateLimit-Reset: 1667212090
+X-RateLimit-Used: 7
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: 1752:6AB8:3FA705C:40B87C0:635F98B1
+
+{
+    "message": "Bad credentials",
+    "documentation_url": "https://docs.github.com/rest"
+}
+

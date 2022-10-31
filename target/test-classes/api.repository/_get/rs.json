@@ -1,0 +1,53 @@
+[
+  {
+    "name": "10-tests",
+    "commit": {
+      "sha": "1fcb9ccc6ef5bc2ecce9a3244e054232fa972133",
+      "url": "https://api.github.com/repos/enakaznyuk/army/commits/1fcb9ccc6ef5bc2ecce9a3244e054232fa972133"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/enakaznyuk/army/branches/10-tests/protection"
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "bf70545af2bdc7fda45c44dfc7953d48d6a89a83",
+      "url": "https://api.github.com/repos/enakaznyuk/army/commits/bf70545af2bdc7fda45c44dfc7953d48d6a89a83"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/enakaznyuk/army/branches/main/protection"
+  },
+  {
+    "name": "my-batis",
+    "commit": {
+      "sha": "934271af7d51dac933babfba642217f350e1f080",
+      "url": "https://api.github.com/repos/enakaznyuk/army/commits/934271af7d51dac933babfba642217f350e1f080"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/enakaznyuk/army/branches/my-batis/protection"
+  }
+]
